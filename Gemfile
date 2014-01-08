@@ -29,3 +29,5 @@ group :test do
   gem 'launchy'
   gem 'mongoid-rspec'
 end
+
+gem 'rails_12factor', group: :production
